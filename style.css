@@ -1,0 +1,33 @@
+.container {
+    max-width: min(80ch, 100vw - 4rem);
+    margin-inline: auto;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul> {
+    display: flex;
+    list-style: namn;
+}
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+nav > ul{
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+body{
+    font-family: 'Libre Baskerville', serif;
+    background-color: rgb(11, 20, 145);
+
+}
+
+
